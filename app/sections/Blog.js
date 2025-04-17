@@ -30,7 +30,7 @@ const blogPosts = [
     excerpt:
       "家族のコミュニケーションを促す、居心地の良いダイニング空間の作り方。素材選びから照明、家具の配置まで実例を交えて解説します。",
     date: "2023-02-20",
-    image: "/img/72ea58f3ccebb1dee0ebbe46790c9817-scaled.jpg",
+    image: "/img/sra-03.jpg",
     category: "間取り",
   },
 ];
