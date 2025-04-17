@@ -37,9 +37,9 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            見た目だけじゃなく、暮らしやすさとさりげない誇りを。
+            見た目だけじゃなく、暮らしやすさと温もりを。
             <br />
-            新築もリフォームも、お客様らしさを大切に仕上げます。
+            新築もリフォームも、お客様らしさを大切に。
           </motion.p>
 
           <motion.div
