@@ -12,7 +12,7 @@ const blogPosts = [
     excerpt:
       "日々の暮らしの中で、どうしても散らかってしまう生活感。特に急な来客の時に慌てないためのすっきり収納術をご紹介します。",
     date: "2023-04-10",
-    image: "/img/R0018426-scaled.jpg",
+    image: "/img/sra-03.jpg",
     category: "収納術",
   },
   {

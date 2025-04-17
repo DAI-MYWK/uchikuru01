@@ -110,7 +110,7 @@ export default function Services() {
             </div>
             <div className="order-1 md:order-2 relative rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/img/1621646556.jpg"
+                src="/img/sra-04.jpg"
                 alt="新築の住宅"
                 width={600}
                 height={400}
