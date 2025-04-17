@@ -28,9 +28,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            あなたらしさが息づく
-            <br />
-            住まいをつくる
+            うち、来る？
           </motion.h1>
 
           <motion.p
